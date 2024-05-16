@@ -1,3 +1,5 @@
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6643af4e662f1deb344055ec?variant=dark&roadmaps=full-stack%2Cpython%2Cbackend%2Cfrontend" alt="roadmap.sh"/></a>
+
 #Introduction
 This repository contains information about Reginald L Portee, also known as DevLeonXpX. It is intended for personal use only and should not be shared with others. The purpose is to provide insights into my background, skills, and interests.
 
@@ -38,7 +40,9 @@ My goal is to deepen my understanding of these areas and progressively build my 
 ## Contact: 
 
 [Email](devleonxpx@gmail.com)
+
 [My Linkedin Profile](https://www.linkedin.com/in/leon-9b33912b4/)
+
 [Reginald Portee aka DevLeonXpX Data Analyst Studies](https://draw.roadmap.sh/6643f560662f1deb3445e822)
 
 ## Usage
